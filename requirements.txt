@@ -1,6 +1,6 @@
 streamlit
 pandas
-xgboost>=3.0
+xgboost==3.1.2
 shap
 plotly
 joblib
